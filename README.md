@@ -8,7 +8,7 @@ This project conducts a comprehensive analysis of network dynamics, specifically
 - NumPy
 - Matplotlib
 - iGraph
-- SER (a custom library for simulating the SER model)[https://github.com/fabridamicelli/ser]
+- SER (a custom library for simulating the SER model) [https://github.com/fabridamicelli/ser]
 
 Ensure you have the above dependencies installed in your environment to run the code successfully.
 
