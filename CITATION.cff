@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Chioquetta
+    given-names: Alessandra
+title: "NetworkClustering"
+version: "1.0.0"
+date-released: "2024-03-22"
+url: "https://github.com/A-Chioquetta/NetworkClustering"
+license: "MIT"
+keywords: ["network", "clustering", "graph theory", "machine learning", "data science"]
+abstract: "NetworkClustering is a software tool designed to analyze and cluster networks using advanced graph theory and machine learning techniques. It is particularly suited for large-scale data and can be applied to various domains such as social network analysis, biological networks, and communication systems."
